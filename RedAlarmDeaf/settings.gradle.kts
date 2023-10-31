@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "RedAlarmDeaf"
 include(":app")
- 
+include(":app:notifications")
+include(":notificationListener")
